@@ -4,7 +4,7 @@
 
 * Practice using `find()` to isolate a specific result
 
-## Introduction
+## Introductionz
 
 We have learned that the `indexOf()` and `find()` methods can be used to locate
 an element in an array, and that they return the **first** element for which the
