@@ -6,4 +6,4 @@ function superbowlWin(array){
     }
     }
 }
-superbowlWin(record)
+record.find(superbowlWin)
